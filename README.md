@@ -52,7 +52,7 @@ My Profile
 Username: Seiaaxn
 Whoami: Web Developer.
 Languages: Indonesia & English
-Waifu: Suoming (Wuthering Waves), Kana Arima (Oshi no Ko)
+Waifu: Suoming (Wuthering Waves), Kana Arima (Oshi no Ko), Rikka Takanashi
 Location: Indonesia.
 Learning: Fullstack (Laravel), Deployment, Scaling Side Projects
 Hobbies: Watching Anime, Playing Wuthering Waves, Building Websites.
@@ -82,16 +82,6 @@ Hobbies: Watching Anime, Playing Wuthering Waves, Building Websites.
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/00F5FF/Seiaaxn" alt="GitHub Contributions" width="100%" />
-
-</div>
-
----
-
-<h2 align="center"> 📫 Contact </h2>
-
-<div align="center">
-
-<a href="https://github.com/Seiaaxn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
