@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ciel&fontSize=75&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Seiaaxn%20%C2%B7%20Web%20Developer%20from%20Indonesia&descAlignY=58&descSize=18" alt="Banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ciel;Web+Developer;Anime+Lover;Building+things+for+the+community" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ciel;Web+Developer;Bot+Engineer;Anime+Lover;Building+things+for+the+community" alt="Typing SVG" />
 </a>
 
 <p>
@@ -23,9 +23,9 @@
 <h2 align="center">Hey there!</h2>
 
 <p align="center">
-Ciel here! I'm a <b>Web Developer</b> from Indonesia.<br/>
+Ciel here! I'm a <b>Web Developer</b> and <b>Bot Engineer</b> from Indonesia.<br/>
 I work with JavaScript, PHP, Laravel, and Python,<br/>
-building websites and tools that people actually use every day.
+building websites, bots, and tools that people actually use every day.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ building websites and tools that people actually use every day.
 </p>
 
 <p align="center">
-My hobbies include watching Anime, playing games, and building websites!
+My hobbies include watching Anime, playing games, building websites, bot engineering, and editing!
 </p>
 
 ---
@@ -50,12 +50,12 @@ ciel@seiaaxn: ~/Seiaaxn (main)$ neofetch
 My Profile
 -------------------------------
 Username: Seiaaxn
-Whoami: Web Developer.
+Whoami: Web Developer & Bot Engineer.
 Languages: Indonesia & English
-Waifu: Suoming (Wuthering Waves), Kana Arima (Oshi no Ko), Rikka Takanashi
+Waifu: Suoming (Wuthering Waves), Kana Arima (Oshi no Ko), Rikka Takanashi (Chuunibyou demo Koi ga Shitai!)
 Location: Indonesia.
 Learning: Fullstack (Laravel), Deployment, Scaling Side Projects
-Hobbies: Watching Anime, Playing Wuthering Waves, Building Websites.
+Hobbies: Watching Anime, Playing Wuthering Waves, Building Websites, Bot Engineering, Editing.
 ```
 
 <br clear="left"/>
