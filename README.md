@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ciel&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Seiaaxn%20%C2%B7%20Building%20websites%2C%20tools%20%26%20anime%20community%20projects&descAlignY=55&descSize=18" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ciel&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Seiaaxn%20%C2%B7%20Building%20websites%2C%20tools%20and%20anime%20community%20projects&descAlignY=55&descSize=18" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Web+Developer+%7C+Anime+Community+Projects;Creator+of+Five+Fail+Family+%F0%9F%8C%B4;Wuthering+Waves+Enthusiast+%E2%9A%A1;Turning+ideas+into+working+sites" alt="Typing SVG" />
 
@@ -152,7 +152,7 @@ Oshi no Ko · Idol · Actress
 | | Focus |
 |:-:|:--|
 | 🌐 | Building more community websites — new tools & features for the marga |
-| 🌴 | Scaling **Five Fail Family** — new generation systems & more automation |
+| 🍂 | Scaling **Five Fail Family** — new generation systems & more automation |
 | 📘 | Going deeper into fullstack development (Laravel, deployment, scaling) |
 | ⚡ | Pulling **Suoming** (S1 at minimum) before her banner ends |
 | 🌱 | Turning side projects into well-maintained, long-lived sites |
@@ -162,7 +162,7 @@ Oshi no Ko · Idol · Actress
 ## 💡 Quick Facts
 
 - 🧠 I'd rather build a site the community actually uses than a portfolio nobody visits
-- 🌴 `limaep.eu.cc` started as a fan project and grew into a 500+ member marga
+- 🍂 `limaep.eu.cc` started as a fan project and grew into a 500+ member marga
 - ⚡ Suoming main — Unison rotation, Unspoken Rue, Heart of Sworn Vigil
 - 🔁 If a site of mine breaks, I'd rather self-host than depend on someone else's free instance
 
@@ -173,7 +173,7 @@ Oshi no Ko · Idol · Actress
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Seiaaxn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seiaaxn)
-[![Five Fail Family](https://img.shields.io/badge/🌴_Five_Fail_Family-limaep.eu.cc-00C7B7?style=for-the-badge&labelColor=0F2027)](https://limaep.eu.cc)
+[![Five Fail Family](https://img.shields.io/badge/🍂_Five_Fail_Family-limaep.eu.cc-00C7B7?style=for-the-badge&labelColor=0F2027)](https://limaep.eu.cc)
 
 <br/>
 
