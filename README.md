@@ -152,7 +152,7 @@ Oshi no Ko · Idol · Actress
 | | Focus |
 |:-:|:--|
 | 🌐 | Building more community websites — new tools & features for the marga |
-| 🍂 | Scaling **Five Fail Family** — new generation systems & more automation |
+| 🌴 | Scaling **Five Fail Family** — new generation systems & more automation |
 | 📘 | Going deeper into fullstack development (Laravel, deployment, scaling) |
 | ⚡ | Pulling **Suoming** (S1 at minimum) before her banner ends |
 | 🌱 | Turning side projects into well-maintained, long-lived sites |
@@ -162,7 +162,7 @@ Oshi no Ko · Idol · Actress
 ## 💡 Quick Facts
 
 - 🧠 I'd rather build a site the community actually uses than a portfolio nobody visits
-- 🍂 `limaep.eu.cc` started as a fan project and grew into a 500+ member marga
+- 🌴 `limaep.eu.cc` started as a fan project and grew into a 500+ member marga
 - ⚡ Suoming main — Unison rotation, Unspoken Rue, Heart of Sworn Vigil
 - 🔁 If a site of mine breaks, I'd rather self-host than depend on someone else's free instance
 
@@ -173,7 +173,7 @@ Oshi no Ko · Idol · Actress
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Seiaaxn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seiaaxn)
-[![Five Fail Family](https://img.shields.io/badge/🍂_Five_Fail_Family-limaep.eu.cc-00C7B7?style=for-the-badge&labelColor=0F2027)](https://limaep.eu.cc)
+[![Five Fail Family](https://img.shields.io/badge/🌴_Five_Fail_Family-limaep.eu.cc-00C7B7?style=for-the-badge&labelColor=0F2027)](https://limaep.eu.cc)
 
 <br/>
 
