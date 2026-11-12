@@ -55,7 +55,7 @@ Languages: Indonesia & English
 Waifu: Suoming (Wuthering Waves), Kana Arima (Oshi no Ko), Rikka Takanashi (Chuunibyou demo Koi ga Shitai!)
 Location: Indonesia.
 Learning: Fullstack (Laravel), Deployment, Scaling Side Projects
-Hobbies: Watching Anime, Playing Wuthering Waves, Building Websites, Bot Engineering, Editing.
+Hobbies: Watching Anime, Playing Wuthering Waves, Building Websites, Bot Engineer, Editing.
 ```
 
 <br clear="left"/>
