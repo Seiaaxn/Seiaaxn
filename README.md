@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ciel&fontSize=75&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=Seiaaxn%20%C2%B7%20Building%20websites%2C%20tools%20and%20anime%20community%20projects&descAlignY=56&descSize=17" alt="Ciel Banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ciel;Web+Developer;Anime+Community+Builder;Creator+of+Five+Fail+Family+%F0%9F%8C%B4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ciel;Web+Developer;Anime+Community+Builder;Creator+of+Five+Fail+Family" alt="Typing SVG" />
 </a>
 
 <p>
@@ -26,12 +26,12 @@
 
 ---
 
-<h3 align="center">👤 About Me</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">
-Hi, gua <b>Ciel</b> — Web Developer dari Indonesia 🇮🇩<br/>
-Suka bangun website buat komunitas anime, kreator, dan editor.<br/>
-Gua lebih milih bikin website yang <b>dipake tiap hari</b> daripada sekadar pajangan.
+Hi, I'm <b>Ciel</b>, a Web Developer from Indonesia.<br/>
+I love building websites for anime communities, creators, and editors.<br/>
+I'd rather build websites that are <b>used every day</b> than ones that just sit there for show.
 </p>
 
 <p align="center">
@@ -42,31 +42,31 @@ Gua lebih milih bikin website yang <b>dipake tiap hari</b> daripada sekadar paja
 
 | | |
 |:--|:--|
-| 🔭 **Currently** | Running Five Fail Family dan bangun website komunitas |
-| 🌱 **Learning** | Fullstack (Laravel), deployment, scaling side projects |
-| ⚡ **Fun fact** | Ngurus marga kreator anime dengan 500+ member |
+| **Currently** | Running Five Fail Family and building community websites |
+| **Learning** | Fullstack (Laravel), deployment, scaling side projects |
+| **Fun fact** | Managing an anime creator clan with 500+ members |
 
 </div>
 
 ---
 
-<h3 align="center">🌴 Featured Project</h3>
+<h3 align="center">Featured Project</h3>
 
 <div align="center">
 
 ### [Five Fail Family](https://limaep.eu.cc)
 
-Website resmi **marga editor dan kreator anime di TikTok**.
+The official website of an **anime editor and creator clan on TikTok**.
 
 | | Highlights |
 |:-:|:--|
-| 🔐 | Seleksi otomatis: OTP → pendataan → AI verifikasi video TikTok |
-| 👥 | 3 jalur generasi: Sepuh · Anomali · Newbie Open Member |
-| 📊 | Live hashtag stats `#5fcreator` via TikTok API |
-| 🏆 | Leaderboard absen dan statistik marga real-time |
+| 1 | Automated selection: OTP, data collection, then AI verification of TikTok videos |
+| 2 | 3 generation tracks: Sepuh, Anomali, and Newbie Open Member |
+| 3 | Live `#5fcreator` hashtag stats via the TikTok API |
+| 4 | Real-time attendance leaderboard and clan statistics |
 
 <a href="https://limaep.eu.cc">
-<img src="https://img.shields.io/badge/🌴_Visit-limaep.eu.cc-00C7B7?style=for-the-badge&labelColor=0F2027" alt="Visit limaep.eu.cc" />
+<img src="https://img.shields.io/badge/Visit-limaep.eu.cc-00C7B7?style=for-the-badge&labelColor=0F2027" alt="Visit limaep.eu.cc" />
 </a>
 
 </div>
@@ -74,7 +74,7 @@ Website resmi **marga editor dan kreator anime di TikTok**.
 ---
 
 <div align="center">
-<h3>🛠️ Tech Stack</h3>
+<h3>Tech Stack</h3>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,mysql,git,vercel,netlify,vscode,npm" alt="Tech Stack" />
 </a>
@@ -82,7 +82,7 @@ Website resmi **marga editor dan kreator anime di TikTok**.
 
 ---
 
-<h3 align="center">📊 Coding Activity</h3>
+<h3 align="center">Coding Activity</h3>
 
 <div align="center">
 
