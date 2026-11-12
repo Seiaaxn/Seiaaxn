@@ -13,72 +13,90 @@
 
 </div>
 
----
+<br/>
 
-## 🧭 About Me
-
-```yaml
-name:        Ciel
-role:        Web developer & anime community builder
-based_in:    Indonesia 🇮🇩
-focus:       Web Development · Community Projects · Anime Content
-currently:   Running Five Fail Family & building community websites
-learning:    Deeper fullstack skills, deployment & scaling side projects
-philosophy:  "If it can be built, build it for the community."
-fun_fact:    "Running an anime creator marga with 500+ members."
-```
-
-I enjoy building websites that bring people together — from a community hub for editors and content creators to lightweight everyday tools. My work sits somewhere between **web development** and **anime fandom projects** — I like clean sites that do one thing well and keep people coming back.
-
-Most of what I ship falls into one of these buckets:
-
-- 🌐 **Web platforms** — full sites people use daily, not just demos
-- 🎬 **Anime community projects** — tools and hubs for editors & creators
-- 🛠️ **Utility sites** — lightweight tools people can use in seconds
-- ⚡ **Side projects** — anything from a bot dashboard to a game companion
-
----
-
-## 🛠️ Featured Project
+<h2 align="center">🧭 About Me</h2>
 
 <div align="center">
 
-### 🌴 [Five Fail Family](https://limaep.eu.cc)
+<table>
+<tr><td align="right"><b>Name</b></td><td align="left">Ciel</td></tr>
+<tr><td align="right"><b>Role</b></td><td align="left">Web developer and anime community builder</td></tr>
+<tr><td align="right"><b>Based in</b></td><td align="left">Indonesia 🇮🇩</td></tr>
+<tr><td align="right"><b>Focus</b></td><td align="left">Web Development · Community Projects · Anime Content</td></tr>
+<tr><td align="right"><b>Currently</b></td><td align="left">Running Five Fail Family and building community websites</td></tr>
+<tr><td align="right"><b>Learning</b></td><td align="left">Deeper fullstack skills, deployment and scaling side projects</td></tr>
+<tr><td align="right"><b>Fun fact</b></td><td align="left">Running an anime creator marga with 500+ members</td></tr>
+</table>
 
-Website resmi **marga editor & kreator anime di TikTok**.
+<br/>
+
+*"If it can be built, build it for the community."*
+
+<br/>
+
+I enjoy building websites that bring people together — from a community hub<br/>
+for editors and content creators to lightweight everyday tools.<br/>
+My work sits somewhere between **web development** and **anime fandom projects**.<br/>
+I like clean sites that do one thing well and keep people coming back.
+
+<br/>
+
+🌐 **Web platforms** — full sites people use daily, not just demos<br/>
+🎬 **Anime community projects** — tools and hubs for editors and creators<br/>
+🛠️ **Utility sites** — lightweight tools people can use in seconds<br/>
+⚡ **Side projects** — anything from a bot dashboard to a game companion
+
+</div>
+
+<br/>
+
+<h2 align="center">🌴 Featured Project</h2>
+
+<div align="center">
+
+### [Five Fail Family](https://limaep.eu.cc)
+
+Website resmi **marga editor dan kreator anime di TikTok**.<br/>
 Tempat berkarya, berkolaborasi, dan bertumbuh bareng.
 
 `Website` · `TikTok Community` · `500+ Members`
 
-[![Visit](https://img.shields.io/badge/🌴_Visit-limaep.eu.cc-00C7B7?style=for-the-badge&labelColor=0F2027)](https://limaep.eu.cc)
-
-</div>
+<br/>
 
 | | Highlights |
 |:-:|:--|
 | 🔐 | Seleksi member otomatis: verifikasi OTP → pendataan → AI verifikasi video TikTok |
 | 👥 | 3 jalur generasi: Gen 1 Sepuh · Gen 2 Anomali · Gen 3 Newbie Open Member |
 | 📊 | Live hashtag stats `#5fcreator` via TikTok API |
-| 🏆 | Leaderboard absen & statistik marga real-time |
+| 🏆 | Leaderboard absen dan statistik marga real-time |
 
----
+[![Visit](https://img.shields.io/badge/🌴_Visit-limaep.eu.cc-00C7B7?style=for-the-badge&labelColor=0F2027)](https://limaep.eu.cc)
 
-## 🌐 Live Projects
+</div>
+
+<br/>
+
+<h2 align="center">🌐 Live Projects</h2>
+
+<div align="center">
 
 | Project | Description | Status |
-|:--|:--|:-:|
-| [**🌴 limaep.eu.cc**](https://limaep.eu.cc) | Five Fail Family — home marga editor & kreator anime | ![Live](https://img.shields.io/badge/LIVE-00C7B7?style=flat-square) |
+|:-:|:-:|:-:|
+| [**🌴 limaep.eu.cc**](https://limaep.eu.cc) | Five Fail Family — home marga editor dan kreator anime | ![Live](https://img.shields.io/badge/LIVE-00C7B7?style=flat-square) |
 
 <!-- Tambah situs lain: copy baris tabel di atas
 | [**nama-situs.eu.cc**](https://link-situs) | Deskripsi singkat situs | ![Live](https://img.shields.io/badge/LIVE-00C7B7?style=flat-square) |
 -->
 
----
+</div>
 
-## ⚡ My Waifus
+<br/>
+
+<h2 align="center">⚡ My Waifus</h2>
 
 <div align="center">
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top" align="center">
 
@@ -90,7 +108,7 @@ Wuthering Waves · 5★ Electro · Sword
 
 *Seal Master of the Ten Seals Covenant*
 
-> "Nine shadows, ready to strike."
+"Nine shadows, ready to strike."
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -103,16 +121,16 @@ Oshi no Ko · Idol · Actress
 
 *Former child star, current B-Komachi center*
 
-> "Gitai saishū, Kana Arima daaa!"
+"Gitai saishū, Kana Arima daaa!"
 
 </td>
 </tr>
 </table>
 </div>
 
----
+<br/>
 
-## ⚙️ Tech & Tools
+<h2 align="center">⚙️ Tech and Tools</h2>
 
 <div align="center">
 
@@ -132,9 +150,9 @@ Oshi no Ko · Idol · Actress
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -145,30 +163,38 @@ Oshi no Ko · Idol · Actress
 
 </div>
 
----
+<br/>
 
-## 🎯 What I'm Focusing On
+<h2 align="center">🎯 What I'm Focusing On</h2>
+
+<div align="center">
 
 | | Focus |
 |:-:|:--|
-| 🌐 | Building more community websites — new tools & features for the marga |
-| 🌴 | Scaling **Five Fail Family** — new generation systems & more automation |
+| 🌐 | Building more community websites — new tools and features for the marga |
+| 🌴 | Scaling **Five Fail Family** — new generation systems and more automation |
 | 📘 | Going deeper into fullstack development (Laravel, deployment, scaling) |
 | ⚡ | Pulling **Suoming** (S1 at minimum) before her banner ends |
 | 🌱 | Turning side projects into well-maintained, long-lived sites |
 
----
+</div>
 
-## 💡 Quick Facts
+<br/>
 
-- 🧠 I'd rather build a site the community actually uses than a portfolio nobody visits
-- 🌴 `limaep.eu.cc` started as a fan project and grew into a 500+ member marga
-- ⚡ Suoming main — Unison rotation, Unspoken Rue, Heart of Sworn Vigil
-- 🔁 If a site of mine breaks, I'd rather self-host than depend on someone else's free instance
+<h2 align="center">💡 Quick Facts</h2>
 
----
+<div align="center">
 
-## 🌐 Connect
+🧠 I'd rather build a site the community actually uses than a portfolio nobody visits<br/>
+🌴 `limaep.eu.cc` started as a fan project and grew into a 500+ member marga<br/>
+⚡ Suoming main — Unison rotation, Unspoken Rue, Heart of Sworn Vigil<br/>
+🔁 If a site of mine breaks, I'd rather self-host than depend on someone else's free instance
+
+</div>
+
+<br/>
+
+<h2 align="center">🌐 Connect</h2>
 
 <div align="center">
 
@@ -177,7 +203,7 @@ Oshi no Ko · Idol · Actress
 
 <br/>
 
-> *"Ideas without execution are just talk — so let's ship it."*
+*"Ideas without execution are just talk — so let's ship it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="Footer" />
 
